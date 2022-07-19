@@ -34,6 +34,11 @@
         <field>Position__c.Job_Description__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Position__c.Pay_Grade__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Position__c-Position Layout</layout>
     </layoutAssignments>
