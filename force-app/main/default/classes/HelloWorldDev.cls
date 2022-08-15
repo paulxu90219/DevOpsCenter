@@ -1,4 +1,4 @@
 public class HelloWorldDev {
-    integer a = 1;
-    integer b = 10;
+    integer a = 100;
+    integer b = 1000;
 }
